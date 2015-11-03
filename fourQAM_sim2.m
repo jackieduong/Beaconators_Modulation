@@ -1,7 +1,7 @@
 %This code is a simulation of a quadrature transmitter/receiver. Currently
 %only works for an even number of bits.
 
-%Created on 11/3/2015 by RWB
+%Created on 11/3/2015 by RWB Test
 
 clear all
 close all
