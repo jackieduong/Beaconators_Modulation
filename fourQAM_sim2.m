@@ -103,3 +103,4 @@ tnow = linspace(0,.001*len/2,1000*len/2);
 % figure
 plot(tnow,graph);
 
+%edit
